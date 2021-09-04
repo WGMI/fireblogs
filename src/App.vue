@@ -144,6 +144,12 @@ button,
   color: #fff;
 }
 
+.error{
+  text-align:center;
+  font-size: 12px;
+  color: red;
+}
+
 .button-inactive{
   pointer-events: none !important;
   cursor: 2px solid #fff;
